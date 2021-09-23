@@ -219,7 +219,6 @@ def ol(e):
 b5.bind('<Enter>', oe)
 b5.bind('<Leave>', ol)
 
-
 w.grid_rowconfigure(0, weight=1)
 w.grid_rowconfigure(1, weight=1)
 w.grid_rowconfigure(2, weight=1)
@@ -237,3 +236,5 @@ w.grid_columnconfigure(4, weight=1)
 w.grid_columnconfigure(5, weight=1)
 
 w.mainloop()
+
+#Coded By Bhoomika
