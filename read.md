@@ -6,3 +6,4 @@ A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or 
 Rock paper scissors is often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with a degree of skill by recognizing and exploiting non-random behavior in opponents.
 
 Rock Paper Scissor game includes rock paper and scissor.
+added read me
