@@ -60,8 +60,6 @@ def rk():
         b5.grid(column=0, row=8, columnspan=3)
 
 
-
-#function
 def pp():
     global comp
     global user
