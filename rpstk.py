@@ -7,7 +7,7 @@ user=0
 def des():
     w.destroy()
 
-def res(): #function to initialise window
+def res():
     b4.grid_forget()
     b5.grid_forget()
     global comp
@@ -60,8 +60,6 @@ def rk():
         b5.grid(column=0, row=8, columnspan=3)
 
 
-
-#function
 def pp():
     global comp
     global user
