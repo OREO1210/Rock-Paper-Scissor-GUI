@@ -61,7 +61,7 @@ def rk():
 
 
 
-
+#function
 def pp():
     global comp
     global user
