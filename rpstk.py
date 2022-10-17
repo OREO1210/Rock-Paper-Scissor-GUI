@@ -96,7 +96,7 @@ def pp():
                       text="\nComputer wins!!\nBetter Luck Next time!!\n")
         b4.grid(column=3, row=8, columnspan=3)
         b5.grid(column=0, row=8, columnspan=3)
-
+#function
 def sc():
     global comp
     global user
