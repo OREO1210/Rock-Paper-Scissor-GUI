@@ -24,7 +24,7 @@ def res(): #function to initialise window
     b3.grid(column=4, row=4, columnspan=2)
     la2.grid(column=0, row=5, columnspan=6)
     l.grid(column=0, row=0, columnspan=6)
-
+#added fucntion
 def rk():
     global comp
     global user
@@ -61,7 +61,7 @@ def rk():
 
 
 
-
+#function
 def pp():
     global comp
     global user
@@ -96,7 +96,7 @@ def pp():
                       text="\nComputer wins!!\nBetter Luck Next time!!\n")
         b4.grid(column=3, row=8, columnspan=3)
         b5.grid(column=0, row=8, columnspan=3)
-
+#function
 def sc():
     global comp
     global user
