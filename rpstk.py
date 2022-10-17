@@ -7,7 +7,7 @@ user=0
 def des():
     w.destroy()
 
-def res(): #function to initialise window
+def res():
     b4.grid_forget()
     b5.grid_forget()
     global comp
