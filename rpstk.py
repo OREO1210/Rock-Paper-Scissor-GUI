@@ -24,7 +24,7 @@ def res(): #function to initialise window
     b3.grid(column=4, row=4, columnspan=2)
     la2.grid(column=0, row=5, columnspan=6)
     l.grid(column=0, row=0, columnspan=6)
-
+#added fucntion
 def rk():
     global comp
     global user
