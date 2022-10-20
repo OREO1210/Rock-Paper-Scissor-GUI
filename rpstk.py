@@ -158,7 +158,7 @@ b2.grid(column=2,row=4,columnspan=2)
 b3.grid(column=4,row=4,columnspan=2)
 la2.grid(column=0,row=5,columnspan=6)
 
-
+#fucntion to config
 def oe(e):
     b1.config(background='red4',fg="white")
 
