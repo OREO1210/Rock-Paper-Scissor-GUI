@@ -3,7 +3,6 @@ import random
 comp=0
 user=0
 
-#to close the window
 def des():
     w.destroy()
 
